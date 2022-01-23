@@ -1,5 +1,5 @@
 <p align="center"> 
-<img align="center" height="250px" src="https://i.pinimg.com/originals/2f/f4/28/2ff428006f3ade5f10beac69372062ab.gif" />
+<img align="center" height="350" src="https://i.pinimg.com/originals/2f/f4/28/2ff428006f3ade5f10beac69372062ab.gif" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Samuel Rocha</h1>
