@@ -1,8 +1,8 @@
 <samp>
   
-<p align="center"> 
+<!-- <p align="center"> 
   <img align="center" height="350" src="https://i.pinimg.com/originals/2f/f4/28/2ff428006f3ade5f10beac69372062ab.gif" />
-</p>
+</p> -->
   
 <h1 align="center">Hi 👋, I'm Samuel Rocha</h1>
 <h3 align="center">A passionate full stack developer from Brazil</h3>
@@ -39,7 +39,7 @@ Currently I've been studying testing, software architecture and code design with
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku" />
+  <!-- <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku" /> -->
   <img src="https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Bitcoin" />
 </p>
   
